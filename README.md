@@ -1,2 +1,2 @@
 # OIBSIP
-Oasis Infobyte Project
+Oasis Infobyte Project on Java Programming 
