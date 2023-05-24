@@ -1,7 +1,7 @@
 # OIBSIP
 Oasis Infobyte Project on Java Programming 
 
-# TASK- 2 NUMBER GUSSING GAME
+# TASK - 2 NUMBER GUSSING GAME
 This project is done by using the concepts of loops, if-else conditions, and a random number generator. Here, a random number will be generated between 1 and 100, and you have to guess the number that is being generated. You will have a limited number of attempts based on the difficulty level. Although it's a very easy project, I added some fun by incorporating different difficulty levels.
 
 # TASK - 3 ATM INTERFACE
